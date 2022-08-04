@@ -4,4 +4,3 @@ model Customer {
         email Text
     }
 }
-
