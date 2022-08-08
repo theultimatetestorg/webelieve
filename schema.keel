@@ -1,7 +1,8 @@
 model Customer {
     fields {
         name Text,
-        email Text
+        email Text,
+        a Text
     }
 }
 
